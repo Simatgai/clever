@@ -1,0 +1,8 @@
+asyncpg
+fastapi
+gunicorn
+psycopg2-binary
+pydantic
+SQLAlchemy
+starlette==0.13.6
+uvicorn
