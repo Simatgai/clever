@@ -8,3 +8,6 @@ starlette==0.13.6
 uvicorn[standard]
 async-exit-stack
 async-generator
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
